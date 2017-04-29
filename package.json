@@ -1,7 +1,7 @@
 {
   "private": "true",
-  "name": "draft-js-markdown-shortcuts-plugin",
-  "version": "0.0.6",
+  "name": "@esplo/dft-test",
+  "version": "0.1.0",
   "description": "A DraftJS plugin for supporting Markdown syntax shortcuts",
   "main": "lib/index.js",
   "scripts": {
@@ -62,7 +62,7 @@
     "css-loader": "^0.26.0",
     "css-modules-require-hook": "^4.0.5",
     "dirty-chai": "^1.2.2",
-    "draft-js-plugins-editor": "2.0.0-beta7",
+    "draft-js-plugins-editor": "2.0.0-beta10",
     "draft-js-prism": "ngs/draft-js-prism#6edb31c3805dd1de3fb897cc27fced6bac1bafbb",
     "enzyme": "^2.6.0",
     "eslint": "^3.11.1",
@@ -87,7 +87,7 @@
     "react-addons-pure-render-mixin": "^15.4.1",
     "react-addons-test-utils": "^15.4.1",
     "react-github-fork-ribbon": "^0.4.4",
-    "rimraf": "^2.5.4",
+    "rimraf": "^2.6.1",
     "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",
     "static-site-generator-webpack-plugin": "^3.1.0",
